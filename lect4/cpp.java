@@ -1,9 +1,10 @@
 package lect4;
 
 public class cpp {
-    string str main(string()args) (
-        String str"Hello jjava maam"
-        string a((=args.))
-
-    )
+    public static void main(String[] args) {
+        String str = "Hello java maam";
+        if (args.length > 0) {
+            String a = args[0];
+        }
+    }
 }

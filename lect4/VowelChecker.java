@@ -1,7 +1,5 @@
 package lect4;
-
 import java.util.Scanner;
-
 public class VowelChecker {
 
     public static boolean containsVowel(String str) {

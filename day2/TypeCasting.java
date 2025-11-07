@@ -1,4 +1,3 @@
-package day2;
 public class TypeCasting {
     public static void main(String[] args) {
         float myFloat = 10.5f;
