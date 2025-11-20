@@ -29,6 +29,9 @@ This repository contains various Java programs covering fundamental programming 
 - **PrintNumbers.java**: Prints numbers from 1 to 10.
 - **SumOfDigits.java**: Calculates the sum of digits of a number.
 
+### Lecture 3:
+ - **None**
+
 ## Getting Started
 
 To compile and run these Java programs, you need to have the Java Development Kit (JDK) installed and configured in your system's PATH environment variable.
