@@ -3,7 +3,7 @@ package Sem4.day3;
 public class fibo {
 static void fib(String s, int n) {
     if (n == 0) {
-        System.err.println(s);
+        System.out.println(s);
         return;
     }
     fib(s+"0", n-1);
